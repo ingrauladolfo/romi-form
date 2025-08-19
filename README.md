@@ -1,6 +1,6 @@
-# CRUD Macropay Test
+# ROMI Form Test
 
-Prueba Técnica para Macropay para la posición Frontend 2024
+Prueba Técnica para ROMI: Evaluación
 
 ## 🛠 Tecnologías usadas
 
